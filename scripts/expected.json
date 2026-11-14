@@ -1,0 +1,9 @@
+{
+  "name": "agenteca",
+  "agentPlugins": true,
+  "manifests": [
+    ".codex-plugin/plugin.json"
+  ],
+  "marketplace": ".agents/plugins/marketplace.json",
+  "mcp": ".mcp.json"
+}
