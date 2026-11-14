@@ -1,0 +1,7 @@
+{
+  "name": "agenteca",
+  "version": "0.1.0",
+  "description": "Catalogue Agenteca : chercher, lire, installer et mettre à jour des paquets d'agents IA, avec plan montré avant toute écriture.",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
